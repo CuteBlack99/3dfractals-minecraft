@@ -8,6 +8,6 @@ To install
 3. launch minecraft version 1.12 
 
 The command is 
-'''
+```
 /py mandelbulb 'size' 'power' 
-'''
+```
